@@ -8,7 +8,3 @@ O método de pesquisa é experimental, onde dados são coletados por meio de um 
 O sistema foi construído com <code>HTML, PHP e MySQL</code> com ajuda dos frameworks <code>Bootstrap e RedBeanPHP</code>.
 
 O comportamento do sistema resulta na conscientização do usuário no benefício futuro em manter uma vida sustentável e responsável.
-
-<img src="foto1.JPG">
-<img src="foto2.JPG">
-<img src="foto3.JPG">
