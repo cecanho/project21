@@ -9,6 +9,6 @@ O sistema foi construído com <code>HTML, PHP e MySQL</code> com ajuda dos frame
 
 O comportamento do sistema resulta na conscientização do usuário no benefício futuro em manter uma vida sustentável e responsável.
 
-<img src="foto1.JPG">
-<img src="foto2.JPG">
-<img src="foto3.JPG">
+<img src="foto1.jpg">
+<img src="foto2.jpg">
+<img src="foto3.jpg">
